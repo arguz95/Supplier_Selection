@@ -1,4 +1,7 @@
 # Supplier_Selection
+
+#Simple example 2
+
 New Bedford Steel (NBS) procures coking coal to produce steel.
 
 Refer to Data.png and Jupyter notebook Supplier selection.ipynb.
